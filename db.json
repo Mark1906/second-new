@@ -1,5 +1,13 @@
 {
     "users": [
+        {
+            "id": 1,
+            "name": "Mark",
+            "surname": "Sakharchuk",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZSWjEzZiWErqyxFh9k7a-vC5q1VzRFzybg&s",
+            "balance": 500
+        },       
+    
        {
         "id":2,
         "name":"Anton",
