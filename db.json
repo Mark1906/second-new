@@ -40,7 +40,32 @@
          "price": 300,
          "author_id": 2,
          "photo_url":  "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.gxVIhxEKV2L4dkBjwptXjwHaHa%3Fpid%3DApi&sp=1751710578T97eb3b2681c9b04114d73234a794abf8d719d59cd38735999e72983ca5a2009f"  
+        },
+        {
+         "id": 4,
+         "name": "LED display",
+         "descrption": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+         "price": 1111111100,
+         "author_id": 6,
+         "photo_url": "https://i.pinimg.com/236x/27/3b/01/273b0117729ea40ac49a325a7df481f8.jpg"
+        },
+        {
+         "id": 5,
+         "name": "LED display",
+         "descrption": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+         "price": 50,
+         "author_id": 4,
+         "photo_url": "https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg"
+        },
+        {
+         "id": 6,
+         "name": "LED display",
+         "descrption": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+         "price": 5,
+         "author_id": 666,
+         "photo_url": "https://media.istockphoto.com/id/618637822/photo/male-silverback-western-lowland-gorilla.jpg?s=612x612&w=0&k=20&c=mQOaH9z57ccvTq1_5YVEzaQ5vuLVL8WcqoTQ7nagUqQ="
         }
+        
     ]
 }
 
